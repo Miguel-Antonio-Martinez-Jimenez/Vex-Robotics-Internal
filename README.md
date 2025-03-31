@@ -1,5 +1,7 @@
 # Sistema Mecanum Drive para VEX Robotics
 
+<img src="RuedasMecanum.png" align="center" width="100%" />
+
 ## Descripción del Sistema Mecanum Drive
 El **Sistema Mecanum Drive** es un tipo avanzado de tracción omnidireccional que permite que un robot se mueva en cualquier dirección sin la necesidad de girar físicamente. Utiliza cuatro ruedas especiales, conocidas como **ruedas Mecanum**, dispuestas en un ángulo de 45 grados, lo que permite que el robot se desplace hacia adelante, atrás, lateralmente o en diagonal. Este sistema es altamente eficiente en competiciones como **VEX Robotics**, ya que ofrece una maniobrabilidad precisa y rápida en espacios reducidos.
 
